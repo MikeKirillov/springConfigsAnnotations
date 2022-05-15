@@ -11,5 +11,5 @@
 /dataSources/
 /dataSources.local.xml
 
-
-target/
+# Maven template
+/target/
