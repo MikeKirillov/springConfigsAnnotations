@@ -1,6 +1,13 @@
 # IntelliJ project files
 .idea
+*.iws
 *.iml
+*.ipr
+
+# Maven template
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
 
 # Default ignored files
 /shelf/
@@ -10,6 +17,3 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-
-# Maven template
-target/
