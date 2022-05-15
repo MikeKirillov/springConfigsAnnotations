@@ -1,3 +1,7 @@
+# IntelliJ project files
+.idea
+*.iml
+
 # Default ignored files
 /shelf/
 /.idea/workspace.xml
@@ -7,6 +11,5 @@
 /dataSources/
 /dataSources.local.xml
 
-.idea
 
 target/
