@@ -1,0 +1,8 @@
+ru/project/TestSpring.class
+ru/project/impl/RockMusic.class
+ru/project/MusicPlayer.class
+ru/project/interfaces/Music.class
+ru/project/impl/ClassicalMusic.class
+ru/project/enums/Genres.class
+ru/project/Computer.class
+ru/project/MusicPlayer$1.class

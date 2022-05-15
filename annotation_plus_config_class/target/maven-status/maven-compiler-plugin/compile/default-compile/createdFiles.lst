@@ -1,0 +1,8 @@
+ru/project/TestSpring.class
+ru/project/impl/RockMusic.class
+ru/project/MusicPlayer.class
+ru/project/configs/SpringConfig.class
+ru/project/interfaces/Music.class
+ru/project/impl/ClassicalMusic.class
+ru/project/impl/JazzMusic.class
+ru/project/Computer.class

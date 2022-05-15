@@ -10,6 +10,7 @@
     <modules>
         <module>annotation_using</module>
         <module>annotation_plus_config_class</module>
+        <module>xml_config</module>
     </modules>
     <packaging>pom</packaging>
 
