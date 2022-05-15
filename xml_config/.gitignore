@@ -1,0 +1,10 @@
+# IntelliJ project files
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Maven template
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
